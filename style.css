@@ -100,10 +100,6 @@ body{
     .container .card img{
         width: 60%;
     }
-    .buy:active{
-        color: white;
-        width: 200px;
-    }
     .level{
         font-size: .9em;
     }
